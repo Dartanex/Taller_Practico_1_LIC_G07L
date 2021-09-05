@@ -1,0 +1,64 @@
+* {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 2%;
+}
+
+p {
+  margin-top: 2%;
+}
+
+#Placabase {
+  width: 100%;
+}
+
+.aside {
+  overflow: auto;
+  width: 25%;
+  margin: auto 0%;
+  margin-left: 10%;
+  display: block;
+  float: left;
+}
+.placa_base {
+  display: block;
+  float: right;
+  width: 45%;
+  height: auto;
+  margin: 1%;
+  margin-right: 15%;
+  overflow: auto;
+}
+
+#procesador {
+  overflow: auto;
+  width: 100%;
+}
+
+.proce {
+  width: 45%;
+  float: right;
+  margin-right: 15%;
+}
+
+#caracteris_CPU {
+  margin-left: 39.7%;
+}
+.caracteris_CPU {
+  display: block;
+  float: left;
+  width: 23%;
+  margin: 0.5%;
+  overflow: auto;
+}

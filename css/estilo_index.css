@@ -1,0 +1,14 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+button a {
+  text-decoration: none;
+  margin: 0.5%;
+  font-weight: bold;
+  color: black;
+}

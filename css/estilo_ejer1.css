@@ -1,0 +1,36 @@
+* {
+  font-size: 20px;
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  background-color: #b3fab3;
+}
+
+h1 {
+  color: red;
+  font-size: 2em;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h2 {
+  color: #790404;
+  font-size: 1.2em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+mark {
+  font-style: italic;
+  background-color: black;
+  color: white;
+}
+
+bdi {
+  color: green;
+  font-weight: bold;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}

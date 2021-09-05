@@ -1,0 +1,66 @@
+* {
+  font-size: 25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+}
+
+section {
+  border-bottom: 1px blue solid;
+  height: 200px;
+}
+
+#espe {
+  height: 150px;
+}
+
+div {
+  display: block;
+  float: left;
+  margin-left: 1%;
+  margin-top: 2%;
+}
+
+.html {
+  overflow: auto;
+  width: 20%;
+  display: block;
+  float: left;
+  margin-top: 0%;
+}
+
+#especial {
+  margin-left: 20%;
+  text-align: center;
+  width: 20%;
+  display: block;
+  float: left;
+}
+
+.web {
+  text-align: center;
+  margin-left: 40%;
+  margin-right: 80%;
+  width: 20%;
+  display: block;
+  float: left;
+  margin-top: 2%;
+}
+
+.css {
+  display: block;
+  float: right;
+  margin-top: 0%;
+}
+
+#primero {
+  margin-left: 42%;
+}
+
+#segundo {
+  margin-left: 44%;
+}
+
+#happy {
+  margin-left: 48%;
+}
